@@ -20,4 +20,3 @@ echo Nothing to do in the pre_build phase...
 artifacts:
   files:
 "**/*"
-==================================================
