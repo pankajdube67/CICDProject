@@ -1,5 +1,4 @@
 version: 0.2
-
 phases:
   install:
     commands:
@@ -16,7 +15,6 @@ echo Configuring NGINX
   pre_build:
     commands:
 echo Nothing to do in the pre_build phase...
-
 artifacts:
   files:
 "**/*"
